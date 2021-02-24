@@ -16,8 +16,8 @@
 
 ## Parts
 
-- Arduino UNO R3
-- MP3 Module: DFRobotDFPlayerMini
+- Arduino UNO R3 / or clone
+- MP3 Module: DFRobotDFPlayerMini / or clone e.g. KeeYees Mini MP3 Player
 - Speaker
 - Micro SD-Card
 - IR Receiver (KY-022 or similar)
