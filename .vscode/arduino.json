@@ -1,0 +1,7 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0",
+    "output": "./build",
+    "sketch": "mp3playerir.ino"
+}
