@@ -29,4 +29,6 @@
 - install nodejs
 - install pico2wave
 - install ffmpeg
-- make mp3
+- make mp3files
+- place the "mp3" folder to the root of your SD-Card
+
